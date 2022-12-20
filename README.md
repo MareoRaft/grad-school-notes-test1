@@ -1,3 +1,8 @@
+NOTE: This fork's purpose is just to test out GitLab features for the tex-to-pdf effort.  This repo may be deleted in the future.
+
+
+
+
 # Grad School Notes [![Build Status](https://travis-ci.org/ghseeli/grad-school-notes.svg?branch=master)](https://travis-ci.org/ghseeli/grad-school-notes)
 
 Link to [Website](https://ghseeli.github.io/grad-school-notes/).
